@@ -1,0 +1,6 @@
+{
+  "schema": "abyss-plugin-patches-v1",
+  "plugin": "abyss-plugin-backup",
+  "latest": "0.1.0",
+  "patches": []
+}

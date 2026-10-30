@@ -1,0 +1,19 @@
+{
+  "id": "abyss-plugin-backup",
+  "name": "备份迁移",
+  "version": "0.1.0",
+  "minHost": 1,
+  "minApp": "0.1.0",
+  "category": "data",
+  "summary": "应用数据备份 / 跨设备迁移 / 恢复工厂（含插件与配置的整体迁移）。",
+  "icon": "💾",
+  "permissions": [],
+  "entry": "com.abyss.tools.plugin.backup.BackupPlugin",
+  "repo": "Ultra-Guru/abyss-plugin-backup",
+  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-backup/main/patches/index.json",
+  "roadmap": [
+    "v0.2 配置与插件备份",
+    "v0.3 应用数据抽取",
+    "v0.4 跨设备迁移"
+  ]
+}
