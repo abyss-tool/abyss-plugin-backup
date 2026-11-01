@@ -9,8 +9,8 @@
   "icon": "💾",
   "permissions": [],
   "entry": "com.abyss.tools.plugin.backup.BackupPlugin",
-  "repo": "Ultra-Guru/abyss-plugin-backup",
-  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-backup/main/patches/index.json",
+  "repo": "abyss-tool/abyss-plugin-backup",
+  "patchChannel": "https://raw.githubusercontent.com/abyss-tool/abyss-plugin-backup/main/patches/index.json",
   "roadmap": [
     "v0.2 配置与插件备份",
     "v0.3 应用数据抽取",
